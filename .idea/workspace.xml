@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec103db8-ddc5-48fc-a27f-b5702cbae2ac" name="Default Changelist" comment="" />
+    <list default="true" id="ec103db8-ddc5-48fc-a27f-b5702cbae2ac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/movie/antlers.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/movie/bgantlers.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/movie/bgcallofwild.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/movie/bgflashpoint.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/movie/bgmaverick.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/movie/bgrabit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/movie/bgsoul.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/movie/bgstillbelieve.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/movie/bgwoman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/movie/callofwild.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/movie/flashpoint.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/movie/maverick.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/movie/rabbit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/movie/soul.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/movie/stillbelieve.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/movie/woman.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/movie.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/movie.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/movie.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/movie.model.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/products/image/slide2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/movie.route.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/movie.route.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,21 +38,27 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1TmNMqUTSwi151IRaKregettWau" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.16.3" />
-    <property name="last_opened_file_path" value="E:/asp/ABC" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/movie" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.2.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Nguye\WebstormProjects\webservice\resources\products\image" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Nguye\WebstormProjects\webservice\resources\movie" />
       <recent name="C:\Users\Nguye\WebstormProjects\webservice\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Nguye\WebstormProjects\webservice\resources\movie" />
+      <recent name="C:\Users\Nguye\WebstormProjects\webservice\resources\products\image" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -85,10 +114,30 @@
       <workItem from="1577278421878" duration="26000" />
       <workItem from="1577782409829" duration="5776000" />
       <workItem from="1578498852278" duration="535000" />
+      <workItem from="1578500528803" duration="2081000" />
+      <workItem from="1578541257856" duration="1000" />
+      <workItem from="1578541473749" duration="17000" />
+      <workItem from="1578541927456" duration="117000" />
+      <workItem from="1578583159010" duration="16000" />
+      <workItem from="1578583223931" duration="3141000" />
+      <workItem from="1578670614395" duration="5755000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
