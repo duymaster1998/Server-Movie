@@ -2,27 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec103db8-ddc5-48fc-a27f-b5702cbae2ac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/movie/antlers.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/movie/bgantlers.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/movie/bgcallofwild.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/movie/bgflashpoint.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/movie/bgmaverick.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/movie/bgrabit.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/movie/bgsoul.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/movie/bgstillbelieve.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/movie/bgwoman.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/movie/callofwild.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/movie/flashpoint.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/movie/maverick.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/movie/rabbit.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/movie/soul.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/movie/stillbelieve.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/movie/woman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/persional/default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/srcactor/britt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/srcactor/candicepatton.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/srcactor/carlosvaldes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/srcactor/daniellepanabaker.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/srcactor/grantgustin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/srcactor/jennifer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/srcactor/kj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/srcactor/melissa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/srcactor/miles.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/srcactor/nathan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/srcactor/tomcuise.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/srcactor/val.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/actorfilm.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/actorfilm.controller.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/controllers/movie.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/movie.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/actorfilm.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/actorfilm.model.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/models/movie.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/movie.model.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/products/image/slide2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/actorfilm.route.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/actorfilm.route.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/movie.route.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/movie.route.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,13 +44,16 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.16.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/movie" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/srcactor" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.2.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Nguye\WebstormProjects\webservice\resources\srcactor" />
+      <recent name="C:\Users\Nguye\WebstormProjects\webservice\resources\actor" />
+      <recent name="C:\Users\Nguye\WebstormProjects\webservice\resources\persional" />
       <recent name="C:\Users\Nguye\WebstormProjects\webservice\resources\movie" />
       <recent name="C:\Users\Nguye\WebstormProjects\webservice\resources" />
     </key>
@@ -121,6 +122,8 @@
       <workItem from="1578583159010" duration="16000" />
       <workItem from="1578583223931" duration="3141000" />
       <workItem from="1578670614395" duration="5755000" />
+      <workItem from="1578739618752" duration="2466000" />
+      <workItem from="1578752682981" duration="4125000" />
     </task>
     <servers />
   </component>

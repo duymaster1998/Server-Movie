@@ -18,5 +18,12 @@ module.exports ={
     },
     findTopMoviesNews:function (callback) {
         connection.query("SELECT * FROM movie ORDER BY movie.movieid DESC LIMIT 4",callback)
+    },
+    filterMovieByName: function (text, callback) {
+        return connection.query(
+            "select * from movie \n" +
+            "where moviename like '%" + text + "%'",
+            callback
+        );
     }
 };

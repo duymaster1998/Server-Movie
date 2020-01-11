@@ -9,5 +9,6 @@ route.get("/alls/tc",movieController.getAllMoviesTC);
 route.get("/alls/other",movieController.getAllMoviesOther);
 route.get("/topmovies",movieController.getTopMovies);
 route.get("/:id",movieController.getOneMovie);
+route.get("/", movieController.filterMovieByName);
 
 module.exports = route;
