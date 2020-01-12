@@ -2,26 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec103db8-ddc5-48fc-a27f-b5702cbae2ac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/persional/default.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/srcactor/britt.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/srcactor/candicepatton.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/srcactor/carlosvaldes.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/srcactor/daniellepanabaker.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/srcactor/grantgustin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/srcactor/jennifer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/srcactor/kj.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/srcactor/melissa.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/srcactor/miles.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/srcactor/nathan.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/srcactor/tomcuise.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/srcactor/val.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/actorfilm.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/actorfilm.controller.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/movie.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/movie.controller.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/actorfilm.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/actorfilm.model.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/movie.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/movie.model.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/actorfilm.route.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/actorfilm.route.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/movie.route.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/movie.route.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/rating.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/rating.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/rating.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/rating.model.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/rating.route.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/rating.route.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -124,6 +108,8 @@
       <workItem from="1578670614395" duration="5755000" />
       <workItem from="1578739618752" duration="2466000" />
       <workItem from="1578752682981" duration="4125000" />
+      <workItem from="1578833583086" duration="40000" />
+      <workItem from="1578834565360" duration="8658000" />
     </task>
     <servers />
   </component>

@@ -1,7 +1,7 @@
 const ratingModel = require("../models/rating.model");
 
 module.exports.getAllRating = function (req,res) {
-    ratingModel.findAllRating(function (err,rows) {
+    ratingModel.findAllRating(req.params.id,function (err,rows) {
         if (err)
             res.json(err);
         else
@@ -9,8 +9,8 @@ module.exports.getAllRating = function (req,res) {
     })
 };
 
-module.exports.getAllContentInStar = function (req,res) {
-    ratingModel.findAllContentInStar(req.params.id,function (err,rows) {
+module.exports.getCountRating = function (req,res) {
+    ratingModel.countRating(req.params.value,function (err,rows) {
         if (err)
             res.json(err);
         else
@@ -22,5 +22,11 @@ module.exports.insertRating= function (req,res) {
     ratingModel.saveRating(values,function (err) {
         if (err)
             res.json(err);
+        else {
+            let result = {
+                status:"Cảm ơn bạn đã đánh giá"
+            };
+            res.json(result);
+        }
     })
 };
