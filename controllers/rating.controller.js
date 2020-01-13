@@ -30,3 +30,19 @@ module.exports.insertRating= function (req,res) {
         }
     })
 };
+module.exports.updateRating=function (req,res) {
+    let values=req.body;
+    ratingModel.updateRating(values,function (err) {
+        if (err)
+            res.json(err);
+        else {
+            let result = {
+                status: "Cảm ơn bạn đã đánh giá"
+            };
+            res.json(result);
+        }
+    })
+
+
+
+}

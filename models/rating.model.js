@@ -12,5 +12,11 @@ module.exports={
     saveRating:function (values,callback) {
         Connection.query("INSERT INTO rating(userid,movieid,content,star) values(?,?,?,?)",
             [values.userid,values.movieid,values.content,values.star],callback);
+    },
+    updateRating:function (values,callback) {
+        Connection.query("UPDATE rating SET rating.content = ?," +
+            " rating.star=? WHERE rating.userid=? AND rating.movieid=?",
+            [values.content,values.star,values.userid,values.movieid]
+                    ,callback)
     }
 };

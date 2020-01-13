@@ -2,6 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec103db8-ddc5-48fc-a27f-b5702cbae2ac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/movie/bgfantasy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/movie/bggalaxy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/movie/default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/movie/fantasy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/movie/galaxy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/srcactor/bradley.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/srcactor/debicki.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/srcactor/galgadot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/srcactor/gillan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/srcactor/jamie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/srcactor/pratt.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/controllers/rating.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/rating.controller.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/models/rating.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/rating.model.js" afterDir="false" />
@@ -34,16 +45,16 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.2.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Nguye\WebstormProjects\webservice\resources\srcactor" />
-      <recent name="C:\Users\Nguye\WebstormProjects\webservice\resources\actor" />
-      <recent name="C:\Users\Nguye\WebstormProjects\webservice\resources\persional" />
-      <recent name="C:\Users\Nguye\WebstormProjects\webservice\resources\movie" />
-      <recent name="C:\Users\Nguye\WebstormProjects\webservice\resources" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Nguye\WebstormProjects\webservice\resources\movie" />
       <recent name="C:\Users\Nguye\WebstormProjects\webservice\resources\products\image" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Nguye\WebstormProjects\webservice\resources\srcactor" />
+      <recent name="C:\Users\Nguye\WebstormProjects\webservice\resources\movie" />
+      <recent name="C:\Users\Nguye\WebstormProjects\webservice\resources\actor" />
+      <recent name="C:\Users\Nguye\WebstormProjects\webservice\resources\persional" />
+      <recent name="C:\Users\Nguye\WebstormProjects\webservice\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -110,6 +121,8 @@
       <workItem from="1578752682981" duration="4125000" />
       <workItem from="1578833583086" duration="40000" />
       <workItem from="1578834565360" duration="8658000" />
+      <workItem from="1578880394420" duration="673000" />
+      <workItem from="1578917495202" duration="1394000" />
     </task>
     <servers />
   </component>
